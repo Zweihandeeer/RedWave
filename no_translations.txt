@@ -1,0 +1,26 @@
+{
+  "es": [
+    "addToPlaylist",
+    "album",
+    "artist",
+    "clearSearchHistoryQuestion",
+    "confirm",
+    "download",
+    "enablePredictiveBack",
+    "folderRestrictions",
+    "likedPlaylists",
+    "likedSongs",
+    "name",
+    "noCustomPlaylists",
+    "originalRecommendations",
+    "playlistAlreadyExists",
+    "preferences",
+    "recentlyPlayedMsg",
+    "removeSearchQueryQuestion",
+    "restartAppMsg",
+    "songAdded",
+    "understand",
+    "useSquigglySlider",
+    "youtubePlaylistLinkOrId"
+  ]
+}
